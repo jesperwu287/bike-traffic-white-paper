@@ -1,16 +1,16 @@
 // @ts-check
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: '107T Research Series',
-  tagline: 'Papers on issues of interest to Isla Vista residents',
+  title: '107T Poop',
+  tagline: 'Papers on Poop',
   favicon: 'img/zombie.svg',
 
   future: {},
 
-  url: 'https://kennyofthesmith.github.io',
-  baseUrl: '/student_template/',
-  organizationName: 'kennyofthesmith',
-  projectName: 'student_template',
+  url: 'https://jesperwu287.github.io',
+  baseUrl: '/bike-traffic-white-paper/',
+  organizationName: 'jesperwu287',
+  projectName: 'bike-traffic-white-paper',
   trailingSlash: false,
   onBrokenLinks: 'throw',
 
